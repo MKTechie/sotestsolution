@@ -1,0 +1,7 @@
+E:\ExpertAPI_Program\SO_TEST_Project\SO_TEST_Project\bin\Debug\SO_TEST_Project.dll
+E:\ExpertAPI_Program\SO_TEST_Project\SO_TEST_Project\bin\Debug\SO_TEST_Project.pdb
+E:\ExpertAPI_Program\SO_TEST_Project\SO_TEST_Project\bin\Debug\ConsoleApplication1.exe
+E:\ExpertAPI_Program\SO_TEST_Project\SO_TEST_Project\bin\Debug\ConsoleApplication1.pdb
+E:\ExpertAPI_Program\SO_TEST_Project\SO_TEST_Project\obj\Debug\SO_TEST_Project.csprojResolveAssemblyReference.cache
+E:\ExpertAPI_Program\SO_TEST_Project\SO_TEST_Project\obj\Debug\SO_TEST_Project.dll
+E:\ExpertAPI_Program\SO_TEST_Project\SO_TEST_Project\obj\Debug\SO_TEST_Project.pdb
